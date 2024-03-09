@@ -1,0 +1,14 @@
+D:\Deakin Programs\c1\advancedunitcalc\bin\Debug\net8.0\advancedunitcalc.exe
+D:\Deakin Programs\c1\advancedunitcalc\bin\Debug\net8.0\advancedunitcalc.deps.json
+D:\Deakin Programs\c1\advancedunitcalc\bin\Debug\net8.0\advancedunitcalc.runtimeconfig.json
+D:\Deakin Programs\c1\advancedunitcalc\bin\Debug\net8.0\advancedunitcalc.dll
+D:\Deakin Programs\c1\advancedunitcalc\bin\Debug\net8.0\advancedunitcalc.pdb
+D:\Deakin Programs\c1\advancedunitcalc\obj\Debug\net8.0\advancedunitcalc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deakin Programs\c1\advancedunitcalc\obj\Debug\net8.0\advancedunitcalc.AssemblyInfoInputs.cache
+D:\Deakin Programs\c1\advancedunitcalc\obj\Debug\net8.0\advancedunitcalc.AssemblyInfo.cs
+D:\Deakin Programs\c1\advancedunitcalc\obj\Debug\net8.0\advancedunitcalc.csproj.CoreCompileInputs.cache
+D:\Deakin Programs\c1\advancedunitcalc\obj\Debug\net8.0\advancedunitcalc.dll
+D:\Deakin Programs\c1\advancedunitcalc\obj\Debug\net8.0\refint\advancedunitcalc.dll
+D:\Deakin Programs\c1\advancedunitcalc\obj\Debug\net8.0\advancedunitcalc.pdb
+D:\Deakin Programs\c1\advancedunitcalc\obj\Debug\net8.0\advancedunitcalc.genruntimeconfig.cache
+D:\Deakin Programs\c1\advancedunitcalc\obj\Debug\net8.0\ref\advancedunitcalc.dll
